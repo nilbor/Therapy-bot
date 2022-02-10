@@ -4,5 +4,5 @@ praw==6.5.1
 Flask==1.0.2
 flake8==3.7.7
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.5.3
 tensorflow-estimator==1.14.0
